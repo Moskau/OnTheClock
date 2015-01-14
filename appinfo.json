@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "matthewpaine21@gmail.com",
+    "longName": "On The Clock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_pause.png",
+                "name": "RESOURCE_ID_ACTION_ICON_PAUSE",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_play.png",
+                "name": "RESOURCE_ID_ACTION_ICON_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "RESOURCE_ID_ACTION_ICON_PLUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "RESOURCE_ID_ACTION_ICON_MINUS",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "On The Clock",
+    "uuid": "5425a1b7-b867-4883-a3da-02afc451a40e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
